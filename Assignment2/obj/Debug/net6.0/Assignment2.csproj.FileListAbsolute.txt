@@ -1,0 +1,15 @@
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\bin\Debug\net6.0\Assignment2.exe
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\bin\Debug\net6.0\Assignment2.deps.json
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\bin\Debug\net6.0\Assignment2.dll
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\bin\Debug\net6.0\Assignment2.pdb
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\Assignment2.dll
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\refint\Assignment2.dll
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\Assignment2.pdb
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll

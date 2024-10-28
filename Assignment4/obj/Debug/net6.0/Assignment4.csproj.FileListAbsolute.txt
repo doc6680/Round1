@@ -1,0 +1,15 @@
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\bin\Debug\net6.0\Assignment4.exe
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\bin\Debug\net6.0\Assignment4.deps.json
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\bin\Debug\net6.0\Assignment4.runtimeconfig.json
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\bin\Debug\net6.0\Assignment4.dll
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\bin\Debug\net6.0\Assignment4.pdb
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\Assignment4.csproj.AssemblyReference.cache
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\Assignment4.AssemblyInfoInputs.cache
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\Assignment4.AssemblyInfo.cs
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\Assignment4.csproj.CoreCompileInputs.cache
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\Assignment4.dll
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\refint\Assignment4.dll
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\Assignment4.pdb
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\Assignment4.genruntimeconfig.cache
+D:\Course\UpSkills\Assigment Day 2\Assigment Day 2\Assignment4\obj\Debug\net6.0\ref\Assignment4.dll
